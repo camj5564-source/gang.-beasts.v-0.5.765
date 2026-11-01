@@ -1,0 +1,75 @@
+{
+	"random": false,
+	"games": [
+		{
+			"mode": "survival",
+			"map": "subway",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "grind",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "trucks",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "gondola",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "blimp",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "billboard",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "buoy",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "containers",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "ring",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "vents",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "incinerator",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "girders",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "wheel",
+			"lives": 3
+		},
+		{
+			"mode": "survival",
+			"map": "elevators",
+			"lives": 3
+		}
+	]
+}
