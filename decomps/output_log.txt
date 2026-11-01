@@ -1,0 +1,877 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   23.20.16.4849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DinoFracture.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DinoFracture.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DynamicWaterNativeWrapper.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DynamicWaterNativeWrapper.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyNP.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyNP.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyPS4CommonDialog.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyPS4CommonDialog.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyPS4SavedGames.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\SonyPS4SavedGames.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DW_PoolGUI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DW_ObstructionGUI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DW_BoatGUI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DW_MainMenuGUI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DW_BuoyancyGUI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.988600 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Non platform assembly: data-20ABD008 (this message is harmless)
+Fallback handler could not load library C:/Users/User/Downloads/Gang.Beasts.v0.5.7/Gang Beasts_Data/Mono/data-20ABD008.dll
+Non platform assembly: data-20987B30 (this message is harmless)
+Fallback handler could not load library C:/Users/User/Downloads/Gang.Beasts.v0.5.7/Gang Beasts_Data/Mono/data-20987B30.dll
+Non platform assembly: data-14876020 (this message is harmless)
+Fallback handler could not load library C:/Users/User/Downloads/Gang.Beasts.v0.5.7/Gang Beasts_Data/Mono/data-14876020.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_3.dll.
+Platform assembly: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\Managed\System.Xml.dll (this message is harmless)
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+LOGCS: Successfully initialised. Logging to file: C:\Users\User\Downloads\Gang.Beasts.v0.5.7\Gang Beasts_Data\LogCS\5 - Gang Beasts Log.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 32f0 -> priority: 1 
+  Thread -> id: ae0 -> priority: 1 
+ReselectHack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joystick connected ("Controller (Xbox One For Windows)").
+ 
+(Filename:  Line: 1351)
+
+Joystick reconnected ("Controller (Xbox One For Windows)").
+ 
+(Filename:  Line: 1323)
+
+Joystick disconnected ("Controller (Xbox One For Windows)").
+ 
+(Filename:  Line: 1258)
+
+Joystick connected ("").
+ 
+(Filename:  Line: 1351)
+
+Joystick reconnected ("").
+ 
+(Filename:  Line: 1323)
+
+ReselectHack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Launching Host...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.156300 ms
+
+Unloading 3468 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 46.171299 ms (FindLiveObjects: 2.372500 ms CreateObjectMapping: 2.811100 ms MarkObjects: 23.548599 ms  DeleteObjects: 17.438400 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.737400 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 26.863600 ms (FindLiveObjects: 2.365500 ms CreateObjectMapping: 2.127500 ms MarkObjects: 22.294100 ms  DeleteObjects: 0.075500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 24.137400 ms (FindLiveObjects: 1.739600 ms CreateObjectMapping: 1.645300 ms MarkObjects: 20.687799 ms  DeleteObjects: 0.063800 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.040000 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 25.005699 ms (FindLiveObjects: 1.613900 ms CreateObjectMapping: 1.775400 ms MarkObjects: 21.524399 ms  DeleteObjects: 0.091100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 25.820499 ms (FindLiveObjects: 1.796200 ms CreateObjectMapping: 1.702400 ms MarkObjects: 22.254501 ms  DeleteObjects: 0.066300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32398.
+Total: 27.048300 ms (FindLiveObjects: 1.818300 ms CreateObjectMapping: 2.695900 ms MarkObjects: 22.435301 ms  DeleteObjects: 0.097600 ms)
+
+Registered client scene listener
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current players: 0, incoming players: 2, totals 2 vs max of 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetAuth] Connection 0 passed authentication
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+admit connection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Grind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.794700 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 26.883001 ms (FindLiveObjects: 2.058300 ms CreateObjectMapping: 2.373100 ms MarkObjects: 22.351099 ms  DeleteObjects: 0.099300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 29.200199 ms (FindLiveObjects: 2.180300 ms CreateObjectMapping: 2.387300 ms MarkObjects: 24.567801 ms  DeleteObjects: 0.064000 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.883400 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 35.823902 ms (FindLiveObjects: 2.480400 ms CreateObjectMapping: 2.144100 ms MarkObjects: 31.101000 ms  DeleteObjects: 0.097400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 25.413301 ms (FindLiveObjects: 1.634500 ms CreateObjectMapping: 2.361800 ms MarkObjects: 21.355700 ms  DeleteObjects: 0.060100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 26.758499 ms (FindLiveObjects: 1.765000 ms CreateObjectMapping: 2.457600 ms MarkObjects: 22.485399 ms  DeleteObjects: 0.049400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32490.
+Total: 25.411001 ms (FindLiveObjects: 1.891800 ms CreateObjectMapping: 2.211400 ms MarkObjects: 21.239799 ms  DeleteObjects: 0.067000 ms)
+
+[NetServerMemberManager] X. X. X. X. X. X. X. X. X. X. GetReceivePlayersHandler, 2 players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 30.965099 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 31.990000 ms (FindLiveObjects: 3.082200 ms CreateObjectMapping: 1.911900 ms MarkObjects: 26.706100 ms  DeleteObjects: 0.288600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 30.134399 ms (FindLiveObjects: 2.161200 ms CreateObjectMapping: 1.817200 ms MarkObjects: 26.067200 ms  DeleteObjects: 0.087200 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.805400 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 28.526001 ms (FindLiveObjects: 2.561500 ms CreateObjectMapping: 2.418600 ms MarkObjects: 23.429199 ms  DeleteObjects: 0.115100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 27.372999 ms (FindLiveObjects: 1.865400 ms CreateObjectMapping: 1.693800 ms MarkObjects: 23.741699 ms  DeleteObjects: 0.070900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 27.444099 ms (FindLiveObjects: 1.905900 ms CreateObjectMapping: 1.632700 ms MarkObjects: 23.834501 ms  DeleteObjects: 0.069700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32798.
+Total: 28.653200 ms (FindLiveObjects: 1.759900 ms CreateObjectMapping: 1.713500 ms MarkObjects: 25.104500 ms  DeleteObjects: 0.074200 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting camera details to: Mask: -1 | Flags: Skybox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 21.609001 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 47.078899 ms (FindLiveObjects: 2.956200 ms CreateObjectMapping: 2.502100 ms MarkObjects: 41.340199 ms  DeleteObjects: 0.279000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 43.911503 ms (FindLiveObjects: 2.928900 ms CreateObjectMapping: 2.309100 ms MarkObjects: 38.597504 ms  DeleteObjects: 0.074500 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.880000 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 28.433800 ms (FindLiveObjects: 2.199400 ms CreateObjectMapping: 2.131400 ms MarkObjects: 23.997000 ms  DeleteObjects: 0.105000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 26.609200 ms (FindLiveObjects: 1.779500 ms CreateObjectMapping: 1.573200 ms MarkObjects: 23.184898 ms  DeleteObjects: 0.070300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 27.084900 ms (FindLiveObjects: 2.551800 ms CreateObjectMapping: 1.721300 ms MarkObjects: 22.740601 ms  DeleteObjects: 0.070100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32836.
+Total: 26.732401 ms (FindLiveObjects: 2.233700 ms CreateObjectMapping: 1.393600 ms MarkObjects: 23.039200 ms  DeleteObjects: 0.064900 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting camera details to: Mask: -1 | Flags: Skybox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_YELLOW> was knocked out by  the ground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Incinerator
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Incinerator
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 16.559099 ms
+
+Unloading 157 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 48.425999 ms (FindLiveObjects: 1.706800 ms CreateObjectMapping: 1.479100 ms MarkObjects: 24.083700 ms  DeleteObjects: 21.154900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 28.694700 ms (FindLiveObjects: 2.640500 ms CreateObjectMapping: 1.996300 ms MarkObjects: 23.990700 ms  DeleteObjects: 0.065800 ms)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.532400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 25.483601 ms (FindLiveObjects: 1.531500 ms CreateObjectMapping: 1.589200 ms MarkObjects: 22.276999 ms  DeleteObjects: 0.084400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 25.411301 ms (FindLiveObjects: 1.671100 ms CreateObjectMapping: 1.631800 ms MarkObjects: 22.045099 ms  DeleteObjects: 0.062200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 25.292801 ms (FindLiveObjects: 1.464100 ms CreateObjectMapping: 1.552600 ms MarkObjects: 22.210199 ms  DeleteObjects: 0.064700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29737.
+Total: 25.621399 ms (FindLiveObjects: 1.492800 ms CreateObjectMapping: 1.630200 ms MarkObjects: 22.431000 ms  DeleteObjects: 0.066200 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_YELLOW> was knocked out by <COLOUR_RED>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 10.249599 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 32.505798 ms (FindLiveObjects: 2.393300 ms CreateObjectMapping: 2.057600 ms MarkObjects: 27.076401 ms  DeleteObjects: 0.977300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 29.741899 ms (FindLiveObjects: 1.926000 ms CreateObjectMapping: 2.029700 ms MarkObjects: 25.712200 ms  DeleteObjects: 0.072700 ms)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.513100 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 26.940800 ms (FindLiveObjects: 1.695900 ms CreateObjectMapping: 1.713800 ms MarkObjects: 23.440800 ms  DeleteObjects: 0.089400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 26.963299 ms (FindLiveObjects: 1.614600 ms CreateObjectMapping: 1.737300 ms MarkObjects: 23.539400 ms  DeleteObjects: 0.071100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 30.817799 ms (FindLiveObjects: 1.527200 ms CreateObjectMapping: 2.806400 ms MarkObjects: 26.435600 ms  DeleteObjects: 0.047600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29765.
+Total: 26.848000 ms (FindLiveObjects: 1.774000 ms CreateObjectMapping: 2.435700 ms MarkObjects: 22.588400 ms  DeleteObjects: 0.048900 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting camera details to: Mask: -1 | Flags: Skybox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CoreNet | Pooling] Barrel_Spawner_Right Pool out of pooled objects, cannot spawn new one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_YELLOW> was knocked out by <COLOUR_RED>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CoreNet | Pooling] Barrel_Spawner_Right Pool out of pooled objects, cannot spawn new one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_RED> was knocked out by <COLOUR_YELLOW>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_RED> was knocked out by <COLOUR_YELLOW>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 12.507200 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 46.875999 ms (FindLiveObjects: 2.607500 ms CreateObjectMapping: 2.853600 ms MarkObjects: 41.148499 ms  DeleteObjects: 0.265000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 43.469398 ms (FindLiveObjects: 2.570100 ms CreateObjectMapping: 2.637900 ms MarkObjects: 38.191399 ms  DeleteObjects: 0.068300 ms)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.684600 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 40.751499 ms (FindLiveObjects: 2.181200 ms CreateObjectMapping: 2.891300 ms MarkObjects: 35.587601 ms  DeleteObjects: 0.090300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 44.294300 ms (FindLiveObjects: 2.491400 ms CreateObjectMapping: 2.724900 ms MarkObjects: 39.008900 ms  DeleteObjects: 0.067800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 29.186901 ms (FindLiveObjects: 2.102600 ms CreateObjectMapping: 2.014100 ms MarkObjects: 25.002001 ms  DeleteObjects: 0.067000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29803.
+Total: 33.086399 ms (FindLiveObjects: 2.172400 ms CreateObjectMapping: 2.553600 ms MarkObjects: 28.292299 ms  DeleteObjects: 0.067100 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting camera details to: Mask: -1 | Flags: Skybox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_RED> was knocked out by <COLOUR_YELLOW>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Ring
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Ring
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 8.705300 ms
+
+Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 36.706100 ms (FindLiveObjects: 1.834200 ms CreateObjectMapping: 1.716700 ms MarkObjects: 24.163200 ms  DeleteObjects: 8.990900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 38.392399 ms (FindLiveObjects: 6.175500 ms CreateObjectMapping: 2.552500 ms MarkObjects: 24.572599 ms  DeleteObjects: 5.090400 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.291300 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 26.501900 ms (FindLiveObjects: 1.617100 ms CreateObjectMapping: 1.676400 ms MarkObjects: 23.112400 ms  DeleteObjects: 0.095000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 26.185799 ms (FindLiveObjects: 1.640000 ms CreateObjectMapping: 1.676500 ms MarkObjects: 22.795500 ms  DeleteObjects: 0.072600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 25.504099 ms (FindLiveObjects: 1.602200 ms CreateObjectMapping: 1.850700 ms MarkObjects: 21.977800 ms  DeleteObjects: 0.072000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31509.
+Total: 27.132799 ms (FindLiveObjects: 2.446200 ms CreateObjectMapping: 1.645900 ms MarkObjects: 22.973600 ms  DeleteObjects: 0.066100 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 12.659600 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 34.142799 ms (FindLiveObjects: 2.748700 ms CreateObjectMapping: 2.891200 ms MarkObjects: 27.747801 ms  DeleteObjects: 0.753500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 30.858398 ms (FindLiveObjects: 1.900300 ms CreateObjectMapping: 1.704900 ms MarkObjects: 27.165400 ms  DeleteObjects: 0.086600 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.256700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 28.302399 ms (FindLiveObjects: 1.732500 ms CreateObjectMapping: 1.875100 ms MarkObjects: 24.588799 ms  DeleteObjects: 0.104900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 28.416599 ms (FindLiveObjects: 1.704500 ms CreateObjectMapping: 1.697000 ms MarkObjects: 24.941099 ms  DeleteObjects: 0.072800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 27.865700 ms (FindLiveObjects: 1.612000 ms CreateObjectMapping: 2.288200 ms MarkObjects: 23.910400 ms  DeleteObjects: 0.053800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 31546.
+Total: 29.064201 ms (FindLiveObjects: 2.407800 ms CreateObjectMapping: 2.233200 ms MarkObjects: 24.354801 ms  DeleteObjects: 0.067400 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting camera details to: Mask: -1 | Flags: Skybox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<COLOUR_RED> was knocked out by <COLOUR_YELLOW>'s Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Subway
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changed level too: Subway
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 11.299200 ms
+Level loaded! - setting up for gamemode: SURVIVAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 182 unused Assets to reduce memory usage. Loaded Objects now: 29514.
+Total: 33.791199 ms (FindLiveObjects: 1.816800 ms CreateObjectMapping: 1.658600 ms MarkObjects: 25.289801 ms  DeleteObjects: 5.024400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29514.
+Total: 29.997200 ms (FindLiveObjects: 4.104300 ms CreateObjectMapping: 2.229800 ms MarkObjects: 23.583099 ms  DeleteObjects: 0.079100 ms)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.147799 ms
+Level loaded! - setting up for gamemode: SURVIVAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 29517.
+Total: 28.367401 ms (FindLiveObjects: 2.267100 ms CreateObjectMapping: 2.194200 ms MarkObjects: 23.810501 ms  DeleteObjects: 0.094500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29517.
+Total: 27.805399 ms (FindLiveObjects: 2.991900 ms CreateObjectMapping: 2.198900 ms MarkObjects: 22.566599 ms  DeleteObjects: 0.047000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29517.
+Total: 25.811600 ms (FindLiveObjects: 1.672900 ms CreateObjectMapping: 1.448600 ms MarkObjects: 22.623699 ms  DeleteObjects: 0.065500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 29517.
+Total: 28.545101 ms (FindLiveObjects: 2.640800 ms CreateObjectMapping: 2.327500 ms MarkObjects: 23.515301 ms  DeleteObjects: 0.060100 ms)
+
+[NetSceneManager] Checking whether our clients have loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Checking ready states on 1 members : true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NetSceneManager] Clients have loaded, beginning game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Can't remove NetServerExit (Script) because GBServerMemberManager (Script) depends on it
+ 
+(Filename:  Line: 1457)
+
+Can't remove NetServerSceneManager (Script) because GameManager (Script) depends on it
+ 
+(Filename:  Line: 1457)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GB.Networking.Components.Server.GBServerMemberManager.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.514800 ms
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 33302.
+Total: 44.470703 ms (FindLiveObjects: 2.569600 ms CreateObjectMapping: 2.847300 ms MarkObjects: 35.991798 ms  DeleteObjects: 3.060600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.554200 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 33302.
+Total: 37.311501 ms (FindLiveObjects: 3.458900 ms CreateObjectMapping: 2.124900 ms MarkObjects: 31.630798 ms  DeleteObjects: 0.095500 ms)
+
