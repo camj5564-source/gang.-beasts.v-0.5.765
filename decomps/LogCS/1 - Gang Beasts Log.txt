@@ -1,0 +1,3 @@
+LOGCS: [Bootstrapper] No Device: None
+LOGCS: [CorePlatform] CorePlatform Has Not Been Started Yet!!!
+LOGCS: [CorePlatform] CorePlatform Has Not Been Started Yet!!!

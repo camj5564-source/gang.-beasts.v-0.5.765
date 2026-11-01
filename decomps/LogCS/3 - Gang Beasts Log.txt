@@ -1,0 +1,62 @@
+LOGCS: [Bootstrapper] No Device: None
+LOGCS: [CorePlatform] CorePlatform Has Not Been Started Yet!!!
+LOGCS: [CorePlatform] CorePlatform Has Not Been Started Yet!!!
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (1).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (3).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (3).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (4).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (2).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (1).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (2).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (1).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (4).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CoreNet] actor_humanoidMediumEctomorph(Clone) has more Routers (21) than Syncs (0).
+                    Consider removing some Routers.
+LOGCS: [CP] FINALISING: 111
